@@ -11,7 +11,7 @@ public class Sedan extends Car{
 	
 	@Override
 	public void speedUp(int speed) {
-		this.speed += speed + 20;
+		this.speed += speed + 30;
 	}
 	
 	public void speedTurbo() {

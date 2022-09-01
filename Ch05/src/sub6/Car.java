@@ -18,7 +18,7 @@ public class Car {
 	
 	//자동차의 기능(메서드) / 지역변수
 	public void speedUp(int speed) {
-		this.speed += speed;
+		this.speed += speed; 
 	}
 	public void speedDown(int speed) {
 		this.speed -= speed;

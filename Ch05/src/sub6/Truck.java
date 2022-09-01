@@ -12,7 +12,7 @@ public class Truck extends Car{
 	@Override
 	public void speedUp(int speed) {
 	
-		this.speed += speed - 10;
+		this.speed += speed - 20;
 		
 	}
 	

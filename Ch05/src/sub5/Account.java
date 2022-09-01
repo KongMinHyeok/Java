@@ -12,7 +12,7 @@ public class Account {
 		this.bank = bank;
 		this.id = id;
 		this.name = name;
-		this.balance = balance;
+		this.balance = balance ;
 		
 	}
 	
