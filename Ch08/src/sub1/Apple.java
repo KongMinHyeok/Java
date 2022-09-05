@@ -16,11 +16,12 @@ public class Apple {
 		System.out.println("가격 : "+price);
 	}
 	
-	public String toStirng() {
+	@Override
+	public String toString() {
 		System.out.println("country : "+country);
 		System.out.println("price : "+price);
 		System.out.println("객체 해시값 : "+hashCode());
-
-		return String;
+		
+		return super.toString();
 	}
 }

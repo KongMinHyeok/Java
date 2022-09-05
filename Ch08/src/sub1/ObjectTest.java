@@ -18,6 +18,8 @@ public class ObjectTest {
 		a1.show();
 		a2.show();
 		
+		
+		// equals() 객체 비교
 		if(a1 == a2) {
 			System.out.println("a1과 a2가 주소값이 같다.");
 		}else {
@@ -30,6 +32,12 @@ public class ObjectTest {
 		}else {
 			System.out.println("a1과 a2가 객체가 다르다.");
 		}
+		
+		
+		// toString() : 객체 정보
+		a1.toString();
+		a2.toString();
+		
 		
 	}
 	
