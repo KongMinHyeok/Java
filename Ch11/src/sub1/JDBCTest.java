@@ -12,7 +12,7 @@ import java.sql.DriverManager;
 public class JDBCTest {
 
 	public static void main(String[] args) {
-		
+		// DB 정보
 		String host = "jdbc:mysql://127.0.0.1:3306/java1db";
 		String user = "root";
 		String pass = "1234";
