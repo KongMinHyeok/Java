@@ -29,7 +29,7 @@ public class VariableTest {
 		
 		// 상수
 		final int NUM = 5; // 초기화
-		//NUM = 7;
+		
 		
 		System.out.println("NUM : " + NUM);
 	}
