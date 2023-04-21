@@ -10,6 +10,8 @@
 
 ## Ch03.Java 제어문
 - sub1.조건문 if 실습하기
-- sub1.조건문 switch 실습하기
-- sub1.조건문 for 실습하기
-- sub1.조건문 while 실습하기# Java
+- sub2.조건문 switch 실습하기
+- sub3.조건문 for 실습하기
+- sub4.조건문 while 실습하기# Java
+
+## Ch04. 
